@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="acitvity_main_do">correcto</string>
+    <string name="activity_main_welcome_jungle">cancelar</string>
+</resources>

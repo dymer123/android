@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">SplashScreen</string>
+    <string name="acitvity_main_do">ok\n</string>
+    <string name="activity_main_welcome_jungle">cancel</string>
+    <string name="dialog_ok" translatable="false">dialog_ok</string>
+    <string name="dialog_ko" translatable="false">dialog_ko</string>
+    <string name="Hellow" />
+</resources>
